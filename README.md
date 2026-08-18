@@ -1,2 +1,2 @@
-# tech-growth
+# Tech-growth
 My personal technical growth and learning notes.
