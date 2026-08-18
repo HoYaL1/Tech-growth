@@ -1,3 +1,4 @@
 - [分布式系统学习](https://mit-public-courses-cn-translatio.gitbook.io/mit6-824)
 - [k8s博客](https://uaxe.github.io/geektime-docs/%E8%BF%90%E7%BB%B4-%E6%B5%8B%E8%AF%95/Kubernetes%E5%85%A5%E9%97%A8%E5%AE%9E%E6%88%98%E8%AF%BE/Kubernetes%E5%85%A5%E9%97%A8%E5%AE%9E%E6%88%98%E8%AF%BE/)
 - [Go 八股](https://goclub.space/docs/baguwen/Go/)
+[Boot.dev 游戏化后端编程学习平台（部分交互功能付费）](https://www.boot.dev/dashboard)
