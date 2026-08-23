@@ -1,4 +1,6 @@
 # Tech‑growth
 My personal technical growth and learning notes.
 
-[Resources.md - 知识网站分享](Resources.md)
+###  资源索引
+- [Resources.md - 知识网站分享](Resources.md)
+- [ReadingNotes - 论文阅读笔记合集](./ReadingNotes/)
