@@ -44,7 +44,7 @@ Thought不能只简单的理解为 "思考",在这一过程中还可以承担：
 
 ## 实验部分
 
-![image-20261004003510296](./REACT SYNERGIZING REASONING AND ACTING IN  LANGUAGE MODELS 阅读记录.assets/image-20261004003510296.png)
+![image-20261004003510296](../assets/image-20261004003510296.png)
 
 这里结合论文给出的具体的例子，阐述一下ReAct优于Reasoning-only和Acting-only。
 
