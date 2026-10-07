@@ -23,7 +23,7 @@
 
 **Task Decomposition 本质就是"分治"（divide and conquer）**：把复杂任务拆成多个子任务，再分别进行规划。论文主要分成两种方式，Decomposition-First Methods 和 Interleaved Decomposition Methods。
 
-![image-20261007161626474](./Understanding the planning of LLM agents A survey 阅读记录.assets/image-20261007161626474.png)
+![image-20261007161626474](../assets/image-20261007161626474.png)
 
 ### Decomposition-First Methods（先分解）
 
